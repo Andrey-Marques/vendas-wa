@@ -1,9 +1,9 @@
 body{
     background-color: #ff0000;
     font-family: Impact, charcoal, sans-serif;
+    color: azure;
 }
 h1{
     color: blueviolet;
     margin: 20px;
-    font-size: 150px;
 }
